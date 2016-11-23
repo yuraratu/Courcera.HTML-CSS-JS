@@ -58,15 +58,13 @@
 
     @media (min-width: 768px) and (max-width: 991px) {
       .p-md-1,
-      .p-md-2,
-      .p-md-3 {
+      .p-md-2 {
         float: left;
       }
-      .p-md-1,
-      .p-md-2 {
+      .p-md-1{
         width: 50%;
       }
-      .p-md-3 {
+      .p-md-2 {
         width: 100%;
       }
     }
