@@ -71,7 +71,7 @@
 
     /********** Mobile **********/
 
-    @media (max-width: 768px) {
+    @media (max-width: 767px) {
       .p-lg-1 {
         float: left;
         width: 100%;
